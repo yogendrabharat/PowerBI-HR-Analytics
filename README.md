@@ -1,30 +1,48 @@
-# PowerBI-HR-Analytics
-Atliq Presence Insights Dashboard
-This project is a Power BI dashboard designed to provide key insights into employee attendance, work-from-home (WFH) percentages, and sick leave (SL) rates. The dashboard helps Atliq company monitor its workforce presence and identify trends over time.
+# 📊 Atliq Presence Insights Dashboard
 
-Key Features
-Attendance Overview: At the top, the dashboard displays the total attendance, WFH, and SL percentages for a selected date range.
+This repository contains a **Power BI dashboard** developed for **Atliq HR Analytics**.  
+The project focuses on monitoring **employee presence** through attendance, work-from-home (WFH) percentages, and sick leave (SL) trends.  
+It provides HR and management teams with a comprehensive view of workforce patterns to improve **productivity tracking, policy planning, and decision-making**.  
 
-Time-based Trends:
+---
 
-The "% of Attendance over time" line chart visualizes daily attendance trends, showing fluctuations and overall patterns.
+## 🔑 Key Features
 
-The "% of SL over time" chart tracks the percentage of sick leave taken daily.
+- **Attendance Overview**  
+  - Displays total attendance, WFH, and SL percentages for a selected date range.  
+  - Helps HR teams quickly assess overall workforce engagement.  
 
-The "% of WFH over time" chart shows the daily work-from-home percentage.
+- **Time-Based Trends**  
+  - **% Attendance over time** → Line chart to track fluctuations and patterns in daily presence.  
+  - **% Sick Leave over time** → Identifies peaks in sick leave usage across dates.  
+  - **% Work From Home over time** → Monitors WFH adoption trends.  
 
-Daily and Individual Metrics:
+- **Daily and Individual Metrics**  
+  - **Weekly Breakdown Table** → Attendance and WFH percentages by day of the week to identify recurring patterns.  
+  - **Employee-Level Report** → Provides detailed insights into individual employee attendance, WFH days, and sick leave.  
 
-The table on the right provides a detailed breakdown of attendance and WFH percentages by the day of the week, allowing for easy identification of weekly patterns.
+---
 
-The table on the bottom left gives a comprehensive view of individual employee attendance, WFH days, and sick leave days.
+## 🛠️ Data & Tools
 
-Data and Tools
-Data Source: The data for this dashboard is based on employee attendance records, which can be sourced from various databases or files.
+- **Data Source:** Employee attendance records (masked in this version for privacy).  
+- **Tool Used:** [Microsoft Power BI](https://powerbi.microsoft.com/) for data modeling, visualization, and analytics.  
 
-Tool: This dashboard was built using Power BI, leveraging its data visualization and analytics capabilities.
+---
 
-How to Use
-Date Slicer: Use the date slicer at the top of the dashboard to filter the data for a specific period.
+## 📂 How to Use
 
-Drill-Down: The dashboard is interactive, allowing users to drill down into specific data points for more detailed analysis.
+1. **Date Slicer**  
+   - At the top of the dashboard, use the slicer to filter data by any custom date range.  
+
+2. **Interactive Exploration**  
+   - Drill down into specific days, employees, or metrics to gain deeper insights.  
+
+3. **Reports**  
+   - Export attendance and WFH data directly from the dashboard for external reporting.  
+
+---
+
+## 📑 Project File
+
+🔗 View the dashboard
