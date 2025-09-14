@@ -45,4 +45,4 @@ It provides HR and management teams with a comprehensive view of workforce patte
 
 ## 📑 Project File
 
-🔗 View the dashboard
+🔗 [View the dashboard](https://github.com/yogendrabharat/PowerBI-HR-Analytics/blob/main/HR%20Analytics%20Atliq_masked.pdf)
